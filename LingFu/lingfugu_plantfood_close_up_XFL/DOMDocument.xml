@@ -1,0 +1,40 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#999999" gridColor="#FFFFFF" width="390" height="390" frameRate="30" currentTimeline="1" xflVersion="2.6" creatorInfo="Automated Generator" platform="Windows" versionInfo="Saved by Generator" majorVersion="15" buildNumber="173" gridSpacingX="130" gridSpacingY="130" gridVisible="true" vanishingPoint3DX="195" vanishingPoint3DY="195" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+     <folders>
+          <DOMFolderItem name="image" itemID="6b8fa358-3043468c"/>
+          <DOMFolderItem name="label" itemID="81fc76c3-652f4356" isExpanded="true"/>
+          <DOMFolderItem name="media" itemID="83ac86bd-6bb64aad"/>
+          <DOMFolderItem name="sprite" itemID="2737e89b-3e594f18" isExpanded="true"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="media/000_197x127.png" itemID="2c238eea-a4e8404b" sourceExternalFilepath="./library/media/000_197x127.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/000_197x127.png" />
+     </media>
+     <symbols>
+          <Include href="sprite/EmptyAnchor.xml" loadImmediate="false" itemID="73948141-7b5546b5" />
+          <Include href="image/000_197x127.xml" itemIcon="1" loadImmediate="false" itemID="e4e8802a-e17b4fbb" />
+          <Include href="sprite/_Plant.xml" loadImmediate="false" itemID="6e0936d7-0c85425a" />
+          <Include href="label/character_moving.xml" loadImmediate="false" itemID="4cdca172-7b324ad5" />
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="label" color="#4F4FFF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="31" name="up" labelType="name" keyMode="9728"><elements/></DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="action" color="#4F4FFF">
+                         <frames>
+                              <DOMFrame index="0" duration="30" keyMode="9728"><elements/></DOMFrame><DOMFrame index="30" keyMode="9728"><Actionscript><script><![CDATA[stop();]]></script></Actionscript><elements/></DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="instance" color="#4F4FFF">
+                         <frames>
+                              <DOMFrame index="0" duration="31" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="label/character_moving" symbolType="graphic" loop="loop"/></elements></DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

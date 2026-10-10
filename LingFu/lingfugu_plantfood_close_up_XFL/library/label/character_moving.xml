@@ -1,0 +1,80 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/character_moving" itemID="4cdca172-7b324ad5" symbolType="graphic">
+  <timeline>
+    <DOMTimeline name="character_moving">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/_Plant" symbolType="graphic" loop="loop">
+                  <matrix><Matrix tx="23.18" ty="245.97"/></matrix>
+                  <color>
+                    <Color alphaMultiplier="1.0" redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/_Plant" symbolType="graphic" loop="loop">
+                  <matrix><Matrix c="0.1252" d="1.0107" tx="146.68" ty="246.875"/></matrix>
+                  <color>
+                    <Color alphaMultiplier="1.0" redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/_Plant" symbolType="graphic" loop="loop">
+                  <matrix><Matrix c="0.2198" d="1.0079" tx="234.78" ty="247.75"/></matrix>
+                  <color>
+                    <Color alphaMultiplier="1.0" redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/_Plant" symbolType="graphic" loop="loop">
+                  <matrix><Matrix c="0.2781" d="1.0015" tx="287.63" ty="248.32"/></matrix>
+                  <color>
+                    <Color alphaMultiplier="1.0" redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="image/000_197x127" symbolType="graphic" loop="loop">
+                  <matrix><Matrix a="1.9998" c="0.5948" d="1.9995" tx="-201.82" ty="5.295"/></matrix>
+                  <color>
+                    <Color alphaMultiplier="1.0" redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="image/000_197x127" symbolType="graphic" loop="loop">
+                  <matrix><Matrix a="1.9711" c="-0.3321" d="1.9711" tx="-35.945" ty="8.995"/></matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="image/000_197x127" symbolType="graphic" loop="loop">
+                  <matrix><Matrix a="1.9855" c="-0.1658" d="1.992" tx="-67.715" ty="6.27"/></matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>            <DOMFrame index="13" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="image/000_197x127" symbolType="graphic" loop="loop">
+                  <matrix><Matrix a="2.0" d="2.0" tx="-99.495" ty="5.25"/></matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>            <DOMFrame index="31" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
