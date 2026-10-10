@@ -1,0 +1,112 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#999999" gridColor="#FFFFFF" width="390" height="390" frameRate="30" currentTimeline="1" xflVersion="2.6" creatorInfo="Automated Generator" platform="Windows" versionInfo="Saved by Generator" majorVersion="15" buildNumber="173" gridSpacingX="130" gridSpacingY="130" gridVisible="true" vanishingPoint3DX="195" vanishingPoint3DY="195" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+     <folders>
+          <DOMFolderItem name="image" itemID="69aa6ac9-28a94c7d"/>
+          <DOMFolderItem name="label" itemID="6c23fd75-ced845be" isExpanded="true"/>
+          <DOMFolderItem name="media" itemID="b610373a-5aa44cd1"/>
+          <DOMFolderItem name="sprite" itemID="1ef1e52c-feac4f2a" isExpanded="true"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="media/000_11x19.png" itemID="1298821e-2f384942" sourceExternalFilepath="./library/media/000_11x19.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/000_11x19.png" />
+          <DOMBitmapItem name="media/001_16x16.png" itemID="e62f150b-6e9f43ca" sourceExternalFilepath="./library/media/001_16x16.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/001_16x16.png" />
+          <DOMBitmapItem name="media/002_19x20.png" itemID="4da9de6d-efe64cf5" sourceExternalFilepath="./library/media/002_19x20.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/002_19x20.png" />
+          <DOMBitmapItem name="media/003_16x18.png" itemID="e44567e9-96c742cc" sourceExternalFilepath="./library/media/003_16x18.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/003_16x18.png" />
+          <DOMBitmapItem name="media/004_17x19.png" itemID="6cc7ced2-fb6d4546" sourceExternalFilepath="./library/media/004_17x19.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/004_17x19.png" />
+          <DOMBitmapItem name="media/005_17x18.png" itemID="a40f45eb-34974368" sourceExternalFilepath="./library/media/005_17x18.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/005_17x18.png" />
+          <DOMBitmapItem name="media/006_17x17.png" itemID="2d38e52d-5bc94e2e" sourceExternalFilepath="./library/media/006_17x17.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/006_17x17.png" />
+          <DOMBitmapItem name="media/007_27x27.png" itemID="7e8ca524-04c04431" sourceExternalFilepath="./library/media/007_27x27.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/007_27x27.png" />
+          <DOMBitmapItem name="media/008_37x37.png" itemID="87af3689-46464797" sourceExternalFilepath="./library/media/008_37x37.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/008_37x37.png" />
+          <DOMBitmapItem name="media/009_37x37.png" itemID="9a5fccc8-38e54a6b" sourceExternalFilepath="./library/media/009_37x37.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/009_37x37.png" />
+          <DOMBitmapItem name="media/010_37x37.png" itemID="88de93b8-8a6e4155" sourceExternalFilepath="./library/media/010_37x37.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/010_37x37.png" />
+          <DOMBitmapItem name="media/011_37x37.png" itemID="51f167c3-82b646c7" sourceExternalFilepath="./library/media/011_37x37.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/011_37x37.png" />
+          <DOMBitmapItem name="media/012_37x37.png" itemID="ec7d7196-f08c404e" sourceExternalFilepath="./library/media/012_37x37.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/012_37x37.png" />
+          <DOMBitmapItem name="media/013_14x16.png" itemID="f4b1d340-0a6b4b95" sourceExternalFilepath="./library/media/013_14x16.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/013_14x16.png" />
+          <DOMBitmapItem name="media/014_9x11.png" itemID="62217bec-e7444f4d" sourceExternalFilepath="./library/media/014_9x11.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/014_9x11.png" />
+          <DOMBitmapItem name="media/015_14x14.png" itemID="f81b11ba-4f1c4d9a" sourceExternalFilepath="./library/media/015_14x14.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/015_14x14.png" />
+          <DOMBitmapItem name="media/016_13x14.png" itemID="dbe1df5d-489548d4" sourceExternalFilepath="./library/media/016_13x14.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/016_13x14.png" />
+          <DOMBitmapItem name="media/017_8x9.png" itemID="0bf756c7-bd924ed8" sourceExternalFilepath="./library/media/017_8x9.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/017_8x9.png" />
+          <DOMBitmapItem name="media/018_13x14.png" itemID="271ee06e-0765458f" sourceExternalFilepath="./library/media/018_13x14.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/018_13x14.png" />
+          <DOMBitmapItem name="media/019_8x9.png" itemID="3b5972b5-a70847be" sourceExternalFilepath="./library/media/019_8x9.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/019_8x9.png" />
+          <DOMBitmapItem name="media/020_12x14.png" itemID="20fca73b-8df34c65" sourceExternalFilepath="./library/media/020_12x14.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/020_12x14.png" />
+          <DOMBitmapItem name="media/021_7x9.png" itemID="7c44bd89-9abf4af3" sourceExternalFilepath="./library/media/021_7x9.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/021_7x9.png" />
+          <DOMBitmapItem name="media/022_12x14.png" itemID="a7d650b1-986f4fb7" sourceExternalFilepath="./library/media/022_12x14.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/022_12x14.png" />
+          <DOMBitmapItem name="media/023_7x9.png" itemID="d2955e59-e1144775" sourceExternalFilepath="./library/media/023_7x9.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/023_7x9.png" />
+          <DOMBitmapItem name="media/024_11x11.png" itemID="be869976-83e34760" sourceExternalFilepath="./library/media/024_11x11.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/024_11x11.png" />
+          <DOMBitmapItem name="media/025_19x27.png" itemID="87429dc1-83864f55" sourceExternalFilepath="./library/media/025_19x27.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/025_19x27.png" />
+          <DOMBitmapItem name="media/026_44x44.png" itemID="1749ab92-281447e9" sourceExternalFilepath="./library/media/026_44x44.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/026_44x44.png" />
+          <DOMBitmapItem name="media/027_26x26.png" itemID="e2fc2651-aefb487c" sourceExternalFilepath="./library/media/027_26x26.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/027_26x26.png" />
+          <DOMBitmapItem name="media/028_19x27.png" itemID="f26b435c-8ad34df9" sourceExternalFilepath="./library/media/028_19x27.png" sourceLastImported="1" allowSmoothing="true" useImportedJPEGData="false" href="media/028_19x27.png" />
+     </media>
+     <symbols>
+          <Include href="sprite/EmptyAnchor.xml" loadImmediate="false" itemID="371c79be-49674d03" />
+          <Include href="image/000_11x19.xml" itemIcon="1" loadImmediate="false" itemID="43ca170c-2ab04689" />
+          <Include href="image/001_16x16.xml" itemIcon="1" loadImmediate="false" itemID="0735ce7c-22d143a1" />
+          <Include href="image/002_19x20.xml" itemIcon="1" loadImmediate="false" itemID="71fcbf6e-69b0406b" />
+          <Include href="image/003_16x18.xml" itemIcon="1" loadImmediate="false" itemID="a8a0c897-311343ac" />
+          <Include href="image/004_17x19.xml" itemIcon="1" loadImmediate="false" itemID="5b1d7fa9-681d4998" />
+          <Include href="image/005_17x18.xml" itemIcon="1" loadImmediate="false" itemID="4210ab57-15f04eb2" />
+          <Include href="image/006_17x17.xml" itemIcon="1" loadImmediate="false" itemID="e4b4bf83-7ffd4708" />
+          <Include href="image/007_27x27.xml" itemIcon="1" loadImmediate="false" itemID="63e76b23-42e24809" />
+          <Include href="image/008_37x37.xml" itemIcon="1" loadImmediate="false" itemID="4655686f-e4164aa7" />
+          <Include href="image/009_37x37.xml" itemIcon="1" loadImmediate="false" itemID="eae05569-8ca44750" />
+          <Include href="image/010_37x37.xml" itemIcon="1" loadImmediate="false" itemID="c4de31de-d50d464d" />
+          <Include href="image/011_37x37.xml" itemIcon="1" loadImmediate="false" itemID="fb5006a1-45e94861" />
+          <Include href="image/012_37x37.xml" itemIcon="1" loadImmediate="false" itemID="4d4e0555-3ddb436e" />
+          <Include href="image/013_14x16.xml" itemIcon="1" loadImmediate="false" itemID="2ba0b8a6-f94c4dc6" />
+          <Include href="image/014_9x11.xml" itemIcon="1" loadImmediate="false" itemID="32e0f8e0-137246ab" />
+          <Include href="image/015_14x14.xml" itemIcon="1" loadImmediate="false" itemID="b5d55088-be6d4be0" />
+          <Include href="image/016_13x14.xml" itemIcon="1" loadImmediate="false" itemID="e37f56c6-ace94a65" />
+          <Include href="image/017_8x9.xml" itemIcon="1" loadImmediate="false" itemID="1b4f4431-c44742a9" />
+          <Include href="image/018_13x14.xml" itemIcon="1" loadImmediate="false" itemID="3ddd3da7-99d94779" />
+          <Include href="image/019_8x9.xml" itemIcon="1" loadImmediate="false" itemID="3dc568d8-722840ff" />
+          <Include href="image/020_12x14.xml" itemIcon="1" loadImmediate="false" itemID="fdfd04f6-2b314569" />
+          <Include href="image/021_7x9.xml" itemIcon="1" loadImmediate="false" itemID="d0443164-44654625" />
+          <Include href="image/022_12x14.xml" itemIcon="1" loadImmediate="false" itemID="263ad8e1-9d744103" />
+          <Include href="image/023_7x9.xml" itemIcon="1" loadImmediate="false" itemID="dbeeb42d-92744eb0" />
+          <Include href="image/024_11x11.xml" itemIcon="1" loadImmediate="false" itemID="f186f5ad-61c04e4f" />
+          <Include href="image/025_19x27.xml" itemIcon="1" loadImmediate="false" itemID="ec9a7cbd-6a944d92" />
+          <Include href="image/026_44x44.xml" itemIcon="1" loadImmediate="false" itemID="1a004479-377f423d" />
+          <Include href="image/027_26x26.xml" itemIcon="1" loadImmediate="false" itemID="09011652-782b4202" />
+          <Include href="image/028_19x27.xml" itemIcon="1" loadImmediate="false" itemID="fdfaac11-93ed4b7f" />
+          <Include href="sprite/Symbol2.xml" loadImmediate="false" itemID="18025050-0027474b" />
+          <Include href="label/shanke_cn_1_37_57060.xml" loadImmediate="false" itemID="038a8f09-263a45fd" />
+          <Include href="sprite/shanke_cn_1_66_79960.xml" loadImmediate="false" itemID="8960bc60-5e90482e" />
+          <Include href="sprite/shanke_cn_1_67_9176.xml" loadImmediate="false" itemID="bb493ea0-f98d473e" />
+          <Include href="sprite/shanke_cn_1_69_2869.xml" loadImmediate="false" itemID="3c2bd9b5-51434588" />
+          <Include href="sprite/shanke_cn_1_72_79761.xml" loadImmediate="false" itemID="1b4ef95d-7e764be3" />
+          <Include href="sprite/shanke_cn_1_73_41907.xml" loadImmediate="false" itemID="75128e5d-93cb4a57" />
+          <Include href="sprite/shanke_cn_1_76_44755.xml" loadImmediate="false" itemID="f5544dca-bf284b23" />
+          <Include href="sprite/shanke_cn_1_77_90269.xml" loadImmediate="false" itemID="6caeeac7-c6e34604" />
+          <Include href="sprite/shanke_cn_1_80_35299.xml" loadImmediate="false" itemID="8c524153-eb4f4974" />
+          <Include href="sprite/shanke_cn_1_81_56640.xml" loadImmediate="false" itemID="33f5820d-874248de" />
+          <Include href="sprite/shanke_cn_1_84_67527.xml" loadImmediate="false" itemID="e0a76886-a1d44fa8" />
+          <Include href="sprite/shanke_cn_1_85_94389.xml" loadImmediate="false" itemID="e1d765b5-32864a38" />
+          <Include href="sprite/shanke_cn_1_88_7840.xml" loadImmediate="false" itemID="6926f2d4-dfb6499c" />
+          <Include href="label/shanke_cn_1_108_76042.xml" loadImmediate="false" itemID="1a71669b-4d0747b5" />
+          <Include href="sprite/shanke_cn_1_138_61071.xml" loadImmediate="false" itemID="642602bd-f4734909" />
+          <Include href="sprite/shanke_cn_1_137_92895.xml" loadImmediate="false" itemID="2de10e84-4df14bd0" />
+          <Include href="label/Symbol6.xml" loadImmediate="false" itemID="d488ccf0-eb9c4cfe" />
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="label" color="#4F4FFF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="58" name="attack02" labelType="name" keyMode="9728"><elements/></DOMFrame><DOMFrame index="58" duration="44" name="attack01" labelType="name" keyMode="9728"><elements/></DOMFrame><DOMFrame index="102" duration="30" name="p1" labelType="name" keyMode="9728"><elements/></DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="action" color="#4F4FFF">
+                         <frames>
+                              <DOMFrame index="0" duration="57" keyMode="9728"><elements/></DOMFrame><DOMFrame index="57" keyMode="9728"><Actionscript><script><![CDATA[stop();]]></script></Actionscript><elements/></DOMFrame><DOMFrame index="58" duration="43" keyMode="9728"><elements/></DOMFrame><DOMFrame index="101" keyMode="9728"><Actionscript><script><![CDATA[stop();]]></script></Actionscript><elements/></DOMFrame><DOMFrame index="102" duration="29" keyMode="9728"><elements/></DOMFrame><DOMFrame index="131" keyMode="9728"><Actionscript><script><![CDATA[stop();]]></script></Actionscript><elements/></DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="instance" color="#4F4FFF">
+                         <frames>
+                              <DOMFrame index="0" duration="58" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="label/shanke_cn_1_37_57060" symbolType="graphic" loop="loop"/></elements></DOMFrame><DOMFrame index="58" duration="44" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="label/shanke_cn_1_108_76042" symbolType="graphic" loop="loop"/></elements></DOMFrame><DOMFrame index="102" duration="30" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="label/Symbol6" symbolType="graphic" loop="loop"/></elements></DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>
