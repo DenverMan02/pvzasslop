@@ -1,0 +1,136 @@
+{
+	"version": 6, 
+	"resolution": 1536, 
+	"position": {
+		"x": 0, 
+		"y": 0
+	}, 
+	"image": {
+		"pine_needler_back_arm": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_BACK_ARM", 
+			"width": 279, 
+			"height": 131
+		}, 
+		"pine_needler_body": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_BODY", 
+			"width": 266, 
+			"height": 265
+		}, 
+		"pine_needler_costume1": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_COSTUME1", 
+			"width": 144, 
+			"height": 88
+		}, 
+		"pine_needler_costume2": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_COSTUME2", 
+			"width": 278, 
+			"height": 233
+		}, 
+		"pine_needler_eye_plink": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_EYE_PLINK", 
+			"width": 90, 
+			"height": 33
+		}, 
+		"pine_needler_fore_arm": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_FORE_ARM", 
+			"width": 119, 
+			"height": 65
+		}, 
+		"pine_needler_front_arm": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_FRONT_ARM", 
+			"width": 279, 
+			"height": 131
+		}, 
+		"pine_needler_left_eye": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_LEFT_EYE", 
+			"width": 48, 
+			"height": 60
+		}, 
+		"pine_needler_left_eyebrow": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_LEFT_EYEBROW", 
+			"width": 53, 
+			"height": 61
+		}, 
+		"pine_needler_motionblur": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_MOTIONBLUR", 
+			"width": 301, 
+			"height": 255
+		}, 
+		"pine_needler_motionblur_2": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_MOTIONBLUR_2", 
+			"width": 300, 
+			"height": 84
+		}, 
+		"pine_needler_mouth": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_MOUTH", 
+			"width": 86, 
+			"height": 45
+		}, 
+		"pine_needler_mouth_closed": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_MOUTH_CLOSED", 
+			"width": 86, 
+			"height": 36
+		}, 
+		"pine_needler_mouth_open": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_MOUTH_OPEN", 
+			"width": 86, 
+			"height": 51
+		}, 
+		"pine_needler_projectile": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_PROJECTILE", 
+			"width": 278, 
+			"height": 48
+		}, 
+		"pine_needler_projectile_hit": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_PROJECTILE_HIT", 
+			"width": 41, 
+			"height": 39
+		}, 
+		"pine_needler_projectile_hit_level2": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_PROJECTILE_HIT_LEVEL2", 
+			"width": 75, 
+			"height": 61
+		}, 
+		"pine_needler_projectile_hit_level3": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_PROJECTILE_HIT_LEVEL3", 
+			"width": 127, 
+			"height": 133
+		}, 
+		"pine_needler_projectile_level2": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_PROJECTILE_LEVEL2", 
+			"width": 386, 
+			"height": 100
+		}, 
+		"pine_needler_projectile_level3": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_PROJECTILE_LEVEL3", 
+			"width": 399, 
+			"height": 129
+		}, 
+		"pine_needler_pupil": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_PUPIL", 
+			"width": 15, 
+			"height": 18
+		}, 
+		"pine_needler_right_eye": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_RIGHT_EYE", 
+			"width": 73, 
+			"height": 43
+		}, 
+		"pine_needler_right_eyebrow": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_RIGHT_EYEBROW", 
+			"width": 76, 
+			"height": 61
+		}, 
+		"pine_needler_stem": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINE_NEEDLER_STEM", 
+			"width": 106, 
+			"height": 104
+		}, 
+		"pineneedler": {
+			"id": "IMAGE_PLANT_PINENEEDLER_PINENEEDLER", 
+			"width": 162, 
+			"height": 111
+		}
+	}, 
+	"sprite": {}
+}
