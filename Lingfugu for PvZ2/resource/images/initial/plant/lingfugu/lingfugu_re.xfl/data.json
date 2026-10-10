@@ -1,0 +1,156 @@
+{
+    "version": 6,
+    "resolution": 1536,
+    "position": {
+        "x": 0,
+        "y": 0
+    },
+    "image": {
+        "000_11x19": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_000_11X19",
+            "width": 16,
+            "height": 24
+        },
+        "001_16x16": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_001_16X16",
+            "width": 21,
+            "height": 21
+        },
+        "002_19x20": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_002_19X20",
+            "width": 24,
+            "height": 25
+        },
+        "003_16x18": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_003_16X18",
+            "width": 21,
+            "height": 23
+        },
+        "004_17x19": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_004_17X19",
+            "width": 22,
+            "height": 24
+        },
+        "005_17x18": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_005_17X18",
+            "width": 22,
+            "height": 23
+        },
+        "006_17x17": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_006_17X17",
+            "width": 22,
+            "height": 22
+        },
+        "007_27x27": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_007_27X27",
+            "width": 32,
+            "height": 32
+        },
+        "008_37x37": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_008_37X37",
+            "width": 42,
+            "height": 42
+        },
+        "009_37x37": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_009_37X37",
+            "width": 42,
+            "height": 42
+        },
+        "010_37x37": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_010_37X37",
+            "width": 42,
+            "height": 42
+        },
+        "011_37x37": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_011_37X37",
+            "width": 42,
+            "height": 42
+        },
+        "012_37x37": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_012_37X37",
+            "width": 42,
+            "height": 42
+        },
+        "013_14x16": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_013_14X16",
+            "width": 19,
+            "height": 21
+        },
+        "014_9x11": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_014_9X11",
+            "width": 14,
+            "height": 16
+        },
+        "015_14x14": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_015_14X14",
+            "width": 19,
+            "height": 19
+        },
+        "016_13x14": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_016_13X14",
+            "width": 18,
+            "height": 19
+        },
+        "017_8x9": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_017_8X9",
+            "width": 13,
+            "height": 14
+        },
+        "018_13x14": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_018_13X14",
+            "width": 18,
+            "height": 19
+        },
+        "019_8x9": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_019_8X9",
+            "width": 13,
+            "height": 14
+        },
+        "020_12x14": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_020_12X14",
+            "width": 17,
+            "height": 19
+        },
+        "021_7x9": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_021_7X9",
+            "width": 12,
+            "height": 14
+        },
+        "022_12x14": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_022_12X14",
+            "width": 17,
+            "height": 19
+        },
+        "023_7x9": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_023_7X9",
+            "width": 12,
+            "height": 14
+        },
+        "024_11x11": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_024_11X11",
+            "width": 16,
+            "height": 16
+        },
+        "025_19x27": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_025_19X27",
+            "width": 24,
+            "height": 32
+        },
+        "026_44x44": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_026_44X44",
+            "width": 49,
+            "height": 49
+        },
+        "027_26x26": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_027_26X26",
+            "width": 31,
+            "height": 31
+        },
+        "028_19x27": {
+            "id": "IMAGE_PLANT_LINGFUGU_RE_028_19X27",
+            "width": 24,
+            "height": 32
+        }
+    },
+    "sprite": {}
+}

@@ -1,0 +1,16 @@
+{
+    "version": 6,
+    "resolution": 1536,
+    "position": {
+        "x": 0,
+        "y": 0
+    },
+    "image": {
+        "000_197x127": {
+            "id": "IMAGE_PLANT_LINGFUGU_CLOSEUP_000_197X127",
+            "width": 202,
+            "height": 132
+        }
+    },
+    "sprite": {}
+}

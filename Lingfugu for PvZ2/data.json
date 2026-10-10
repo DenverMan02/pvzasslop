@@ -1,0 +1,36 @@
+{
+    "version": 5,
+    "expand_data": 1,
+    "composite": true,
+    "category": {
+        "resolution": [
+            1536,
+            768
+        ],
+        "format": 147,
+        "texture_format_category": 0
+    },
+    "subgroups": {
+        "PlantLingfugu_ALT": {
+            "compression": 3,
+            "common_type": true,
+            "resource": [
+                {
+                    "type": "PopAnim",
+                    "id": "POPANIM_PLANT_LINGFUGU",
+                    "path": "images/initial/plant/lingfugu/lingfugu.xfl"
+                },
+                {
+                    "type": "PopAnim",
+                    "id": "POPANIM_PLANT_LINGFUGU_PROJECTILE",
+                    "path": "images/initial/plant/lingfugu/lingfugu_re.xfl"
+                },
+                {
+                    "type": "PopAnim",
+                    "id": "POPANIM_PLANT_LINGFUGU_CLOSEUP",
+                    "path": "images/initial/plant/lingfugu/lingfugu_plantfood_close_up.xfl"
+                }
+            ]
+        }
+    }
+}

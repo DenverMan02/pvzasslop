@@ -1,0 +1,516 @@
+{
+    "version": 6,
+    "resolution": 1536,
+    "position": {
+        "x": 0,
+        "y": 0
+    },
+    "image": {
+        "000_17x28": {
+            "id": "IMAGE_PLANT_LINGFUGU_000_17X28",
+            "width": 22,
+            "height": 33
+        },
+        "001_17x16": {
+            "id": "IMAGE_PLANT_LINGFUGU_001_17X16",
+            "width": 22,
+            "height": 21
+        },
+        "002_15x6": {
+            "id": "IMAGE_PLANT_LINGFUGU_002_15X6",
+            "width": 20,
+            "height": 11
+        },
+        "003_172x43": {
+            "id": "IMAGE_PLANT_LINGFUGU_003_172X43",
+            "width": 177,
+            "height": 48
+        },
+        "004_69x69": {
+            "id": "IMAGE_PLANT_LINGFUGU_004_69X69",
+            "width": 74,
+            "height": 74
+        },
+        "005_36x41": {
+            "id": "IMAGE_PLANT_LINGFUGU_005_36X41",
+            "width": 41,
+            "height": 46
+        },
+        "006_36x41": {
+            "id": "IMAGE_PLANT_LINGFUGU_006_36X41",
+            "width": 41,
+            "height": 46
+        },
+        "007_36x41": {
+            "id": "IMAGE_PLANT_LINGFUGU_007_36X41",
+            "width": 41,
+            "height": 46
+        },
+        "008_36x41": {
+            "id": "IMAGE_PLANT_LINGFUGU_008_36X41",
+            "width": 41,
+            "height": 46
+        },
+        "009_22x37": {
+            "id": "IMAGE_PLANT_LINGFUGU_009_22X37",
+            "width": 27,
+            "height": 42
+        },
+        "010_30x29": {
+            "id": "IMAGE_PLANT_LINGFUGU_010_30X29",
+            "width": 35,
+            "height": 34
+        },
+        "011_51x51": {
+            "id": "IMAGE_PLANT_LINGFUGU_011_51X51",
+            "width": 56,
+            "height": 56
+        },
+        "012_24x28": {
+            "id": "IMAGE_PLANT_LINGFUGU_012_24X28",
+            "width": 29,
+            "height": 33
+        },
+        "013_24x28": {
+            "id": "IMAGE_PLANT_LINGFUGU_013_24X28",
+            "width": 29,
+            "height": 33
+        },
+        "014_25x27": {
+            "id": "IMAGE_PLANT_LINGFUGU_014_25X27",
+            "width": 30,
+            "height": 32
+        },
+        "015_28x31": {
+            "id": "IMAGE_PLANT_LINGFUGU_015_28X31",
+            "width": 33,
+            "height": 36
+        },
+        "016_25x28": {
+            "id": "IMAGE_PLANT_LINGFUGU_016_25X28",
+            "width": 30,
+            "height": 33
+        },
+        "017_14x18": {
+            "id": "IMAGE_PLANT_LINGFUGU_017_14X18",
+            "width": 19,
+            "height": 23
+        },
+        "018_14x18": {
+            "id": "IMAGE_PLANT_LINGFUGU_018_14X18",
+            "width": 19,
+            "height": 23
+        },
+        "019_15x17": {
+            "id": "IMAGE_PLANT_LINGFUGU_019_15X17",
+            "width": 20,
+            "height": 22
+        },
+        "020_15x18": {
+            "id": "IMAGE_PLANT_LINGFUGU_020_15X18",
+            "width": 20,
+            "height": 23
+        },
+        "021_18x21": {
+            "id": "IMAGE_PLANT_LINGFUGU_021_18X21",
+            "width": 23,
+            "height": 26
+        },
+        "022_28x31": {
+            "id": "IMAGE_PLANT_LINGFUGU_022_28X31",
+            "width": 33,
+            "height": 36
+        },
+        "023_25x28": {
+            "id": "IMAGE_PLANT_LINGFUGU_023_25X28",
+            "width": 30,
+            "height": 33
+        },
+        "024_25x27": {
+            "id": "IMAGE_PLANT_LINGFUGU_024_25X27",
+            "width": 30,
+            "height": 32
+        },
+        "025_24x28": {
+            "id": "IMAGE_PLANT_LINGFUGU_025_24X28",
+            "width": 29,
+            "height": 33
+        },
+        "026_24x28": {
+            "id": "IMAGE_PLANT_LINGFUGU_026_24X28",
+            "width": 29,
+            "height": 33
+        },
+        "027_21x21": {
+            "id": "IMAGE_PLANT_LINGFUGU_027_21X21",
+            "width": 26,
+            "height": 26
+        },
+        "028_28x31": {
+            "id": "IMAGE_PLANT_LINGFUGU_028_28X31",
+            "width": 33,
+            "height": 36
+        },
+        "029_25x28": {
+            "id": "IMAGE_PLANT_LINGFUGU_029_25X28",
+            "width": 30,
+            "height": 33
+        },
+        "030_25x27": {
+            "id": "IMAGE_PLANT_LINGFUGU_030_25X27",
+            "width": 30,
+            "height": 32
+        },
+        "031_24x28": {
+            "id": "IMAGE_PLANT_LINGFUGU_031_24X28",
+            "width": 29,
+            "height": 33
+        },
+        "032_24x28": {
+            "id": "IMAGE_PLANT_LINGFUGU_032_24X28",
+            "width": 29,
+            "height": 33
+        },
+        "033_140x45": {
+            "id": "IMAGE_PLANT_LINGFUGU_033_140X45",
+            "width": 145,
+            "height": 50
+        },
+        "034_140x37": {
+            "id": "IMAGE_PLANT_LINGFUGU_034_140X37",
+            "width": 145,
+            "height": 42
+        },
+        "035_140x37": {
+            "id": "IMAGE_PLANT_LINGFUGU_035_140X37",
+            "width": 145,
+            "height": 42
+        },
+        "036_140x45": {
+            "id": "IMAGE_PLANT_LINGFUGU_036_140X45",
+            "width": 145,
+            "height": 50
+        },
+        "037_128x31": {
+            "id": "IMAGE_PLANT_LINGFUGU_037_128X31",
+            "width": 133,
+            "height": 36
+        },
+        "038_38x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_038_38X53",
+            "width": 43,
+            "height": 58
+        },
+        "039_98x89": {
+            "id": "IMAGE_PLANT_LINGFUGU_039_98X89",
+            "width": 103,
+            "height": 94
+        },
+        "040_98x89": {
+            "id": "IMAGE_PLANT_LINGFUGU_040_98X89",
+            "width": 103,
+            "height": 94
+        },
+        "041_98x89": {
+            "id": "IMAGE_PLANT_LINGFUGU_041_98X89",
+            "width": 103,
+            "height": 94
+        },
+        "042_152x60": {
+            "id": "IMAGE_PLANT_LINGFUGU_042_152X60",
+            "width": 157,
+            "height": 65
+        },
+        "043_89x29": {
+            "id": "IMAGE_PLANT_LINGFUGU_043_89X29",
+            "width": 94,
+            "height": 34
+        },
+        "044_89x29": {
+            "id": "IMAGE_PLANT_LINGFUGU_044_89X29",
+            "width": 94,
+            "height": 34
+        },
+        "045_57x33": {
+            "id": "IMAGE_PLANT_LINGFUGU_045_57X33",
+            "width": 62,
+            "height": 38
+        },
+        "046_57x33": {
+            "id": "IMAGE_PLANT_LINGFUGU_046_57X33",
+            "width": 62,
+            "height": 38
+        },
+        "047_50x32": {
+            "id": "IMAGE_PLANT_LINGFUGU_047_50X32",
+            "width": 55,
+            "height": 37
+        },
+        "048_50x32": {
+            "id": "IMAGE_PLANT_LINGFUGU_048_50X32",
+            "width": 55,
+            "height": 37
+        },
+        "049_69x40": {
+            "id": "IMAGE_PLANT_LINGFUGU_049_69X40",
+            "width": 74,
+            "height": 45
+        },
+        "050_69x40": {
+            "id": "IMAGE_PLANT_LINGFUGU_050_69X40",
+            "width": 74,
+            "height": 45
+        },
+        "051_71x42": {
+            "id": "IMAGE_PLANT_LINGFUGU_051_71X42",
+            "width": 76,
+            "height": 47
+        },
+        "052_71x42": {
+            "id": "IMAGE_PLANT_LINGFUGU_052_71X42",
+            "width": 76,
+            "height": 47
+        },
+        "053_122x14": {
+            "id": "IMAGE_PLANT_LINGFUGU_053_122X14",
+            "width": 127,
+            "height": 19
+        },
+        "054_77x57": {
+            "id": "IMAGE_PLANT_LINGFUGU_054_77X57",
+            "width": 82,
+            "height": 62
+        },
+        "055_122x14": {
+            "id": "IMAGE_PLANT_LINGFUGU_055_122X14",
+            "width": 127,
+            "height": 19
+        },
+        "056_152x60": {
+            "id": "IMAGE_PLANT_LINGFUGU_056_152X60",
+            "width": 157,
+            "height": 65
+        },
+        "057_190x61": {
+            "id": "IMAGE_PLANT_LINGFUGU_057_190X61",
+            "width": 195,
+            "height": 66
+        },
+        "058_48x42": {
+            "id": "IMAGE_PLANT_LINGFUGU_058_48X42",
+            "width": 53,
+            "height": 47
+        },
+        "059_48x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_059_48X53",
+            "width": 53,
+            "height": 58
+        },
+        "060_48x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_060_48X53",
+            "width": 53,
+            "height": 58
+        },
+        "061_48x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_061_48X53",
+            "width": 53,
+            "height": 58
+        },
+        "062_48x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_062_48X53",
+            "width": 53,
+            "height": 58
+        },
+        "063_48x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_063_48X53",
+            "width": 53,
+            "height": 58
+        },
+        "064_48x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_064_48X53",
+            "width": 53,
+            "height": 58
+        },
+        "065_48x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_065_48X53",
+            "width": 53,
+            "height": 58
+        },
+        "066_48x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_066_48X53",
+            "width": 53,
+            "height": 58
+        },
+        "067_48x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_067_48X53",
+            "width": 53,
+            "height": 58
+        },
+        "068_48x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_068_48X53",
+            "width": 53,
+            "height": 58
+        },
+        "069_38x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_069_38X53",
+            "width": 43,
+            "height": 58
+        },
+        "070_125x110": {
+            "id": "IMAGE_PLANT_LINGFUGU_070_125X110",
+            "width": 130,
+            "height": 115
+        },
+        "071_125x110": {
+            "id": "IMAGE_PLANT_LINGFUGU_071_125X110",
+            "width": 130,
+            "height": 115
+        },
+        "072_125x110": {
+            "id": "IMAGE_PLANT_LINGFUGU_072_125X110",
+            "width": 130,
+            "height": 115
+        },
+        "073_6x7": {
+            "id": "IMAGE_PLANT_LINGFUGU_073_6X7",
+            "width": 11,
+            "height": 12
+        },
+        "074_26x28": {
+            "id": "IMAGE_PLANT_LINGFUGU_074_26X28",
+            "width": 31,
+            "height": 33
+        },
+        "075_48x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_075_48X53",
+            "width": 53,
+            "height": 58
+        },
+        "076_48x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_076_48X53",
+            "width": 53,
+            "height": 58
+        },
+        "077_48x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_077_48X53",
+            "width": 53,
+            "height": 58
+        },
+        "078_48x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_078_48X53",
+            "width": 53,
+            "height": 58
+        },
+        "079_25x27": {
+            "id": "IMAGE_PLANT_LINGFUGU_079_25X27",
+            "width": 30,
+            "height": 32
+        },
+        "080_38x53": {
+            "id": "IMAGE_PLANT_LINGFUGU_080_38X53",
+            "width": 43,
+            "height": 58
+        },
+        "081_29x30": {
+            "id": "IMAGE_PLANT_LINGFUGU_081_29X30",
+            "width": 34,
+            "height": 35
+        },
+        "082_46x45": {
+            "id": "IMAGE_PLANT_LINGFUGU_082_46X45",
+            "width": 51,
+            "height": 50
+        },
+        "083_26x27": {
+            "id": "IMAGE_PLANT_LINGFUGU_083_26X27",
+            "width": 31,
+            "height": 32
+        },
+        "084_25x26": {
+            "id": "IMAGE_PLANT_LINGFUGU_084_25X26",
+            "width": 30,
+            "height": 31
+        },
+        "085_31x31": {
+            "id": "IMAGE_PLANT_LINGFUGU_085_31X31",
+            "width": 36,
+            "height": 36
+        },
+        "086_31x31": {
+            "id": "IMAGE_PLANT_LINGFUGU_086_31X31",
+            "width": 36,
+            "height": 36
+        },
+        "087_25x26": {
+            "id": "IMAGE_PLANT_LINGFUGU_087_25X26",
+            "width": 30,
+            "height": 31
+        },
+        "088_26x27": {
+            "id": "IMAGE_PLANT_LINGFUGU_088_26X27",
+            "width": 31,
+            "height": 32
+        },
+        "089_29x30": {
+            "id": "IMAGE_PLANT_LINGFUGU_089_29X30",
+            "width": 34,
+            "height": 35
+        },
+        "090_25x27": {
+            "id": "IMAGE_PLANT_LINGFUGU_090_25X27",
+            "width": 30,
+            "height": 32
+        },
+        "091_26x28": {
+            "id": "IMAGE_PLANT_LINGFUGU_091_26X28",
+            "width": 31,
+            "height": 33
+        },
+        "092_25x26": {
+            "id": "IMAGE_PLANT_LINGFUGU_092_25X26",
+            "width": 30,
+            "height": 31
+        },
+        "093_26x28": {
+            "id": "IMAGE_PLANT_LINGFUGU_093_26X28",
+            "width": 31,
+            "height": 33
+        },
+        "094_31x31": {
+            "id": "IMAGE_PLANT_LINGFUGU_094_31X31",
+            "width": 36,
+            "height": 36
+        },
+        "095_26x27": {
+            "id": "IMAGE_PLANT_LINGFUGU_095_26X27",
+            "width": 31,
+            "height": 32
+        },
+        "096_25x27": {
+            "id": "IMAGE_PLANT_LINGFUGU_096_25X27",
+            "width": 30,
+            "height": 32
+        },
+        "097_29x30": {
+            "id": "IMAGE_PLANT_LINGFUGU_097_29X30",
+            "width": 34,
+            "height": 35
+        },
+        "098_32x26": {
+            "id": "IMAGE_PLANT_LINGFUGU_098_32X26",
+            "width": 37,
+            "height": 31
+        },
+        "099_36x41": {
+            "id": "IMAGE_PLANT_LINGFUGU_099_36X41",
+            "width": 41,
+            "height": 46
+        },
+        "100_36x41": {
+            "id": "IMAGE_PLANT_LINGFUGU_100_36X41",
+            "width": 41,
+            "height": 46
+        }
+    },
+    "sprite": {}
+}

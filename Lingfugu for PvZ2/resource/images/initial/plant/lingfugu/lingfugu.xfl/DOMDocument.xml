@@ -1,0 +1,408 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30.000000" width="390.000000" height="390.000000" xflVersion="2.971">
+  <folders>
+    <DOMFolderItem name="media"/>
+    <DOMFolderItem name="image"/>
+    <DOMFolderItem name="sprite"/>
+    <DOMFolderItem name="label"/>
+  </folders>
+  <media>
+    <DOMBitmapItem name="media/000_17x28" href="media/000_17x28.png"/>
+    <DOMBitmapItem name="media/001_17x16" href="media/001_17x16.png"/>
+    <DOMBitmapItem name="media/002_15x6" href="media/002_15x6.png"/>
+    <DOMBitmapItem name="media/003_172x43" href="media/003_172x43.png"/>
+    <DOMBitmapItem name="media/004_69x69" href="media/004_69x69.png"/>
+    <DOMBitmapItem name="media/005_36x41" href="media/005_36x41.png"/>
+    <DOMBitmapItem name="media/006_36x41" href="media/006_36x41.png"/>
+    <DOMBitmapItem name="media/007_36x41" href="media/007_36x41.png"/>
+    <DOMBitmapItem name="media/008_36x41" href="media/008_36x41.png"/>
+    <DOMBitmapItem name="media/009_22x37" href="media/009_22x37.png"/>
+    <DOMBitmapItem name="media/010_30x29" href="media/010_30x29.png"/>
+    <DOMBitmapItem name="media/011_51x51" href="media/011_51x51.png"/>
+    <DOMBitmapItem name="media/012_24x28" href="media/012_24x28.png"/>
+    <DOMBitmapItem name="media/013_24x28" href="media/013_24x28.png"/>
+    <DOMBitmapItem name="media/014_25x27" href="media/014_25x27.png"/>
+    <DOMBitmapItem name="media/015_28x31" href="media/015_28x31.png"/>
+    <DOMBitmapItem name="media/016_25x28" href="media/016_25x28.png"/>
+    <DOMBitmapItem name="media/017_14x18" href="media/017_14x18.png"/>
+    <DOMBitmapItem name="media/018_14x18" href="media/018_14x18.png"/>
+    <DOMBitmapItem name="media/019_15x17" href="media/019_15x17.png"/>
+    <DOMBitmapItem name="media/020_15x18" href="media/020_15x18.png"/>
+    <DOMBitmapItem name="media/021_18x21" href="media/021_18x21.png"/>
+    <DOMBitmapItem name="media/022_28x31" href="media/022_28x31.png"/>
+    <DOMBitmapItem name="media/023_25x28" href="media/023_25x28.png"/>
+    <DOMBitmapItem name="media/024_25x27" href="media/024_25x27.png"/>
+    <DOMBitmapItem name="media/025_24x28" href="media/025_24x28.png"/>
+    <DOMBitmapItem name="media/026_24x28" href="media/026_24x28.png"/>
+    <DOMBitmapItem name="media/027_21x21" href="media/027_21x21.png"/>
+    <DOMBitmapItem name="media/028_28x31" href="media/028_28x31.png"/>
+    <DOMBitmapItem name="media/029_25x28" href="media/029_25x28.png"/>
+    <DOMBitmapItem name="media/030_25x27" href="media/030_25x27.png"/>
+    <DOMBitmapItem name="media/031_24x28" href="media/031_24x28.png"/>
+    <DOMBitmapItem name="media/032_24x28" href="media/032_24x28.png"/>
+    <DOMBitmapItem name="media/033_140x45" href="media/033_140x45.png"/>
+    <DOMBitmapItem name="media/034_140x37" href="media/034_140x37.png"/>
+    <DOMBitmapItem name="media/035_140x37" href="media/035_140x37.png"/>
+    <DOMBitmapItem name="media/036_140x45" href="media/036_140x45.png"/>
+    <DOMBitmapItem name="media/037_128x31" href="media/037_128x31.png"/>
+    <DOMBitmapItem name="media/038_38x53" href="media/038_38x53.png"/>
+    <DOMBitmapItem name="media/039_98x89" href="media/039_98x89.png"/>
+    <DOMBitmapItem name="media/040_98x89" href="media/040_98x89.png"/>
+    <DOMBitmapItem name="media/041_98x89" href="media/041_98x89.png"/>
+    <DOMBitmapItem name="media/042_152x60" href="media/042_152x60.png"/>
+    <DOMBitmapItem name="media/043_89x29" href="media/043_89x29.png"/>
+    <DOMBitmapItem name="media/044_89x29" href="media/044_89x29.png"/>
+    <DOMBitmapItem name="media/045_57x33" href="media/045_57x33.png"/>
+    <DOMBitmapItem name="media/046_57x33" href="media/046_57x33.png"/>
+    <DOMBitmapItem name="media/047_50x32" href="media/047_50x32.png"/>
+    <DOMBitmapItem name="media/048_50x32" href="media/048_50x32.png"/>
+    <DOMBitmapItem name="media/049_69x40" href="media/049_69x40.png"/>
+    <DOMBitmapItem name="media/050_69x40" href="media/050_69x40.png"/>
+    <DOMBitmapItem name="media/051_71x42" href="media/051_71x42.png"/>
+    <DOMBitmapItem name="media/052_71x42" href="media/052_71x42.png"/>
+    <DOMBitmapItem name="media/053_122x14" href="media/053_122x14.png"/>
+    <DOMBitmapItem name="media/054_77x57" href="media/054_77x57.png"/>
+    <DOMBitmapItem name="media/055_122x14" href="media/055_122x14.png"/>
+    <DOMBitmapItem name="media/056_152x60" href="media/056_152x60.png"/>
+    <DOMBitmapItem name="media/057_190x61" href="media/057_190x61.png"/>
+    <DOMBitmapItem name="media/058_48x42" href="media/058_48x42.png"/>
+    <DOMBitmapItem name="media/059_48x53" href="media/059_48x53.png"/>
+    <DOMBitmapItem name="media/060_48x53" href="media/060_48x53.png"/>
+    <DOMBitmapItem name="media/061_48x53" href="media/061_48x53.png"/>
+    <DOMBitmapItem name="media/062_48x53" href="media/062_48x53.png"/>
+    <DOMBitmapItem name="media/063_48x53" href="media/063_48x53.png"/>
+    <DOMBitmapItem name="media/064_48x53" href="media/064_48x53.png"/>
+    <DOMBitmapItem name="media/065_48x53" href="media/065_48x53.png"/>
+    <DOMBitmapItem name="media/066_48x53" href="media/066_48x53.png"/>
+    <DOMBitmapItem name="media/067_48x53" href="media/067_48x53.png"/>
+    <DOMBitmapItem name="media/068_48x53" href="media/068_48x53.png"/>
+    <DOMBitmapItem name="media/069_38x53" href="media/069_38x53.png"/>
+    <DOMBitmapItem name="media/070_125x110" href="media/070_125x110.png"/>
+    <DOMBitmapItem name="media/071_125x110" href="media/071_125x110.png"/>
+    <DOMBitmapItem name="media/072_125x110" href="media/072_125x110.png"/>
+    <DOMBitmapItem name="media/073_6x7" href="media/073_6x7.png"/>
+    <DOMBitmapItem name="media/074_26x28" href="media/074_26x28.png"/>
+    <DOMBitmapItem name="media/075_48x53" href="media/075_48x53.png"/>
+    <DOMBitmapItem name="media/076_48x53" href="media/076_48x53.png"/>
+    <DOMBitmapItem name="media/077_48x53" href="media/077_48x53.png"/>
+    <DOMBitmapItem name="media/078_48x53" href="media/078_48x53.png"/>
+    <DOMBitmapItem name="media/079_25x27" href="media/079_25x27.png"/>
+    <DOMBitmapItem name="media/080_38x53" href="media/080_38x53.png"/>
+    <DOMBitmapItem name="media/081_29x30" href="media/081_29x30.png"/>
+    <DOMBitmapItem name="media/082_46x45" href="media/082_46x45.png"/>
+    <DOMBitmapItem name="media/083_26x27" href="media/083_26x27.png"/>
+    <DOMBitmapItem name="media/084_25x26" href="media/084_25x26.png"/>
+    <DOMBitmapItem name="media/085_31x31" href="media/085_31x31.png"/>
+    <DOMBitmapItem name="media/086_31x31" href="media/086_31x31.png"/>
+    <DOMBitmapItem name="media/087_25x26" href="media/087_25x26.png"/>
+    <DOMBitmapItem name="media/088_26x27" href="media/088_26x27.png"/>
+    <DOMBitmapItem name="media/089_29x30" href="media/089_29x30.png"/>
+    <DOMBitmapItem name="media/090_25x27" href="media/090_25x27.png"/>
+    <DOMBitmapItem name="media/091_26x28" href="media/091_26x28.png"/>
+    <DOMBitmapItem name="media/092_25x26" href="media/092_25x26.png"/>
+    <DOMBitmapItem name="media/093_26x28" href="media/093_26x28.png"/>
+    <DOMBitmapItem name="media/094_31x31" href="media/094_31x31.png"/>
+    <DOMBitmapItem name="media/095_26x27" href="media/095_26x27.png"/>
+    <DOMBitmapItem name="media/096_25x27" href="media/096_25x27.png"/>
+    <DOMBitmapItem name="media/097_29x30" href="media/097_29x30.png"/>
+    <DOMBitmapItem name="media/098_32x26" href="media/098_32x26.png"/>
+    <DOMBitmapItem name="media/099_36x41" href="media/099_36x41.png"/>
+    <DOMBitmapItem name="media/100_36x41" href="media/100_36x41.png"/>
+  </media>
+  <symbols>
+    <Include href="image/000_17x28.xml"/>
+    <Include href="image/001_17x16.xml"/>
+    <Include href="image/002_15x6.xml"/>
+    <Include href="image/003_172x43.xml"/>
+    <Include href="image/004_69x69.xml"/>
+    <Include href="image/005_36x41.xml"/>
+    <Include href="image/006_36x41.xml"/>
+    <Include href="image/007_36x41.xml"/>
+    <Include href="image/008_36x41.xml"/>
+    <Include href="image/009_22x37.xml"/>
+    <Include href="image/010_30x29.xml"/>
+    <Include href="image/011_51x51.xml"/>
+    <Include href="image/012_24x28.xml"/>
+    <Include href="image/013_24x28.xml"/>
+    <Include href="image/014_25x27.xml"/>
+    <Include href="image/015_28x31.xml"/>
+    <Include href="image/016_25x28.xml"/>
+    <Include href="image/017_14x18.xml"/>
+    <Include href="image/018_14x18.xml"/>
+    <Include href="image/019_15x17.xml"/>
+    <Include href="image/020_15x18.xml"/>
+    <Include href="image/021_18x21.xml"/>
+    <Include href="image/022_28x31.xml"/>
+    <Include href="image/023_25x28.xml"/>
+    <Include href="image/024_25x27.xml"/>
+    <Include href="image/025_24x28.xml"/>
+    <Include href="image/026_24x28.xml"/>
+    <Include href="image/027_21x21.xml"/>
+    <Include href="image/028_28x31.xml"/>
+    <Include href="image/029_25x28.xml"/>
+    <Include href="image/030_25x27.xml"/>
+    <Include href="image/031_24x28.xml"/>
+    <Include href="image/032_24x28.xml"/>
+    <Include href="image/033_140x45.xml"/>
+    <Include href="image/034_140x37.xml"/>
+    <Include href="image/035_140x37.xml"/>
+    <Include href="image/036_140x45.xml"/>
+    <Include href="image/037_128x31.xml"/>
+    <Include href="image/038_38x53.xml"/>
+    <Include href="image/039_98x89.xml"/>
+    <Include href="image/040_98x89.xml"/>
+    <Include href="image/041_98x89.xml"/>
+    <Include href="image/042_152x60.xml"/>
+    <Include href="image/043_89x29.xml"/>
+    <Include href="image/044_89x29.xml"/>
+    <Include href="image/045_57x33.xml"/>
+    <Include href="image/046_57x33.xml"/>
+    <Include href="image/047_50x32.xml"/>
+    <Include href="image/048_50x32.xml"/>
+    <Include href="image/049_69x40.xml"/>
+    <Include href="image/050_69x40.xml"/>
+    <Include href="image/051_71x42.xml"/>
+    <Include href="image/052_71x42.xml"/>
+    <Include href="image/053_122x14.xml"/>
+    <Include href="image/054_77x57.xml"/>
+    <Include href="image/055_122x14.xml"/>
+    <Include href="image/056_152x60.xml"/>
+    <Include href="image/057_190x61.xml"/>
+    <Include href="image/058_48x42.xml"/>
+    <Include href="image/059_48x53.xml"/>
+    <Include href="image/060_48x53.xml"/>
+    <Include href="image/061_48x53.xml"/>
+    <Include href="image/062_48x53.xml"/>
+    <Include href="image/063_48x53.xml"/>
+    <Include href="image/064_48x53.xml"/>
+    <Include href="image/065_48x53.xml"/>
+    <Include href="image/066_48x53.xml"/>
+    <Include href="image/067_48x53.xml"/>
+    <Include href="image/068_48x53.xml"/>
+    <Include href="image/069_38x53.xml"/>
+    <Include href="image/070_125x110.xml"/>
+    <Include href="image/071_125x110.xml"/>
+    <Include href="image/072_125x110.xml"/>
+    <Include href="image/073_6x7.xml"/>
+    <Include href="image/074_26x28.xml"/>
+    <Include href="image/075_48x53.xml"/>
+    <Include href="image/076_48x53.xml"/>
+    <Include href="image/077_48x53.xml"/>
+    <Include href="image/078_48x53.xml"/>
+    <Include href="image/079_25x27.xml"/>
+    <Include href="image/080_38x53.xml"/>
+    <Include href="image/081_29x30.xml"/>
+    <Include href="image/082_46x45.xml"/>
+    <Include href="image/083_26x27.xml"/>
+    <Include href="image/084_25x26.xml"/>
+    <Include href="image/085_31x31.xml"/>
+    <Include href="image/086_31x31.xml"/>
+    <Include href="image/087_25x26.xml"/>
+    <Include href="image/088_26x27.xml"/>
+    <Include href="image/089_29x30.xml"/>
+    <Include href="image/090_25x27.xml"/>
+    <Include href="image/091_26x28.xml"/>
+    <Include href="image/092_25x26.xml"/>
+    <Include href="image/093_26x28.xml"/>
+    <Include href="image/094_31x31.xml"/>
+    <Include href="image/095_26x27.xml"/>
+    <Include href="image/096_25x27.xml"/>
+    <Include href="image/097_29x30.xml"/>
+    <Include href="image/098_32x26.xml"/>
+    <Include href="image/099_36x41.xml"/>
+    <Include href="image/100_36x41.xml"/>
+    <Include href="sprite/EmptyAnchor.xml"/>
+    <Include href="sprite/Symbol2.xml"/>
+    <Include href="sprite/Symbol22.xml"/>
+    <Include href="sprite/Symbol46.xml"/>
+    <Include href="sprite/Tween21.xml"/>
+    <Include href="sprite/eye01.xml"/>
+    <Include href="sprite/eye01copy.xml"/>
+    <Include href="sprite/eye01copy2.xml"/>
+    <Include href="sprite/lightdai.xml"/>
+    <Include href="sprite/shanke_cn_1_10_35646.xml"/>
+    <Include href="sprite/shanke_cn_1_11_49462.xml"/>
+    <Include href="sprite/shanke_cn_1_12_21130.xml"/>
+    <Include href="sprite/shanke_cn_1_12_25589.xml"/>
+    <Include href="sprite/shanke_cn_1_12_25878.xml"/>
+    <Include href="sprite/shanke_cn_1_12_63454.xml"/>
+    <Include href="sprite/shanke_cn_1_12_7001.xml"/>
+    <Include href="sprite/shanke_cn_1_12_99814.xml"/>
+    <Include href="sprite/shanke_cn_1_13_78254.xml"/>
+    <Include href="sprite/shanke_cn_1_14_14240.xml"/>
+    <Include href="sprite/shanke_cn_1_14_1808.xml"/>
+    <Include href="sprite/shanke_cn_1_154_752.xml"/>
+    <Include href="sprite/shanke_cn_1_155_28679.xml"/>
+    <Include href="sprite/shanke_cn_1_158_34936.xml"/>
+    <Include href="sprite/shanke_cn_1_159_38291.xml"/>
+    <Include href="sprite/shanke_cn_1_15_22042.xml"/>
+    <Include href="sprite/shanke_cn_1_162_61492.xml"/>
+    <Include href="sprite/shanke_cn_1_163_25665.xml"/>
+    <Include href="sprite/shanke_cn_1_166_62006.xml"/>
+    <Include href="sprite/shanke_cn_1_167_92232.xml"/>
+    <Include href="sprite/shanke_cn_1_16_88227.xml"/>
+    <Include href="sprite/shanke_cn_1_170_51675.xml"/>
+    <Include href="sprite/shanke_cn_1_171_82653.xml"/>
+    <Include href="sprite/shanke_cn_1_174_96419.xml"/>
+    <Include href="sprite/shanke_cn_1_17_20825.xml"/>
+    <Include href="sprite/shanke_cn_1_17_79934.xml"/>
+    <Include href="sprite/shanke_cn_1_18_19697.xml"/>
+    <Include href="sprite/shanke_cn_1_18_26103.xml"/>
+    <Include href="sprite/shanke_cn_1_1_73593.xml"/>
+    <Include href="sprite/shanke_cn_1_3_27146.xml"/>
+    <Include href="sprite/shanke_cn_1_3_50243.xml"/>
+    <Include href="sprite/shanke_cn_1_3_50861.xml"/>
+    <Include href="sprite/shanke_cn_1_3_53934.xml"/>
+    <Include href="sprite/shanke_cn_1_3_6635.xml"/>
+    <Include href="sprite/shanke_cn_1_4_12090.xml"/>
+    <Include href="sprite/shanke_cn_1_4_41265.xml"/>
+    <Include href="sprite/shanke_cn_1_4_5986.xml"/>
+    <Include href="sprite/shanke_cn_1_4_66255.xml"/>
+    <Include href="sprite/shanke_cn_1_4_86442.xml"/>
+    <Include href="sprite/shanke_cn_1_58_90283.xml"/>
+    <Include href="sprite/shanke_cn_1_59_91116.xml"/>
+    <Include href="sprite/shanke_cn_1_5_22531.xml"/>
+    <Include href="sprite/shanke_cn_1_5_33449.xml"/>
+    <Include href="sprite/shanke_cn_1_62_62887.xml"/>
+    <Include href="sprite/shanke_cn_1_63_17802.xml"/>
+    <Include href="sprite/shanke_cn_1_66_27113.xml"/>
+    <Include href="sprite/shanke_cn_1_67_69956.xml"/>
+    <Include href="sprite/shanke_cn_1_70_34121.xml"/>
+    <Include href="sprite/shanke_cn_1_71_62556.xml"/>
+    <Include href="sprite/shanke_cn_1_74_74129.xml"/>
+    <Include href="sprite/shanke_cn_1_75_22692.xml"/>
+    <Include href="sprite/shanke_cn_1_78_67900.xml"/>
+    <Include href="sprite/shanke_cn_1_7_2087.xml"/>
+    <Include href="sprite/shanke_cn_1_7_31232.xml"/>
+    <Include href="sprite/shanke_cn_1_7_7239.xml"/>
+    <Include href="sprite/shanke_cn_1_8_47509.xml"/>
+    <Include href="sprite/shanke_cn_1_9_18545.xml"/>
+    <Include href="sprite/shanke_cn_1_9_66828.xml"/>
+    <Include href="sprite/word1.xml"/>
+    <Include href="label/idle.xml"/>
+    <Include href="label/damage.xml"/>
+    <Include href="label/attack.xml"/>
+    <Include href="label/plantfood.xml"/>
+    <Include href="label/die.xml"/>
+  </symbols>
+  <timelines>
+    <DOMTimeline name="animation">
+      <layers>
+        <DOMLayer name="label">
+          <frames>
+            <DOMFrame index="0" duration="60" name="idle" labelType="name">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="60" duration="30" name="damage" labelType="name">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="90" duration="90" name="attack" labelType="name">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="180" duration="120" name="plantfood" labelType="name">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="300" duration="80" name="die" labelType="name">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="action">
+          <frames>
+            <DOMFrame index="0" duration="59">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="59">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="60" duration="29">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="89">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="90" duration="34">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="124">
+              <Actionscript>
+                <script><![CDATA[fscommand("use_action", "");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="125" duration="54">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="179">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="180" duration="29">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="209">
+              <Actionscript>
+                <script><![CDATA[fscommand("use_action_with_index", "ActionIndex:1");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="210" duration="89">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="299">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="300" duration="79">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="379">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="instance">
+          <frames>
+            <DOMFrame index="0" duration="60">
+              <elements>
+                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" duration="30">
+              <elements>
+                <DOMSymbolInstance libraryItemName="label/damage" symbolType="graphic" loop="loop"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="90" duration="90">
+              <elements>
+                <DOMSymbolInstance libraryItemName="label/attack" symbolType="graphic" loop="loop"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="180" duration="120">
+              <elements>
+                <DOMSymbolInstance libraryItemName="label/plantfood" symbolType="graphic" loop="loop"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="300" duration="80">
+              <elements>
+                <DOMSymbolInstance libraryItemName="label/die" symbolType="graphic" loop="loop"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timelines>
+</DOMDocument>

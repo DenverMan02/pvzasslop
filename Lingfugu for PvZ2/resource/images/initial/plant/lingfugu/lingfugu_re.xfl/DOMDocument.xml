@@ -1,0 +1,158 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30.000000" width="390.000000" height="390.000000" xflVersion="2.971">
+  <folders>
+    <DOMFolderItem name="media"/>
+    <DOMFolderItem name="image"/>
+    <DOMFolderItem name="sprite"/>
+    <DOMFolderItem name="label"/>
+  </folders>
+  <media>
+    <DOMBitmapItem name="media/000_11x19" href="media/000_11x19.png"/>
+    <DOMBitmapItem name="media/001_16x16" href="media/001_16x16.png"/>
+    <DOMBitmapItem name="media/002_19x20" href="media/002_19x20.png"/>
+    <DOMBitmapItem name="media/003_16x18" href="media/003_16x18.png"/>
+    <DOMBitmapItem name="media/004_17x19" href="media/004_17x19.png"/>
+    <DOMBitmapItem name="media/005_17x18" href="media/005_17x18.png"/>
+    <DOMBitmapItem name="media/006_17x17" href="media/006_17x17.png"/>
+    <DOMBitmapItem name="media/007_27x27" href="media/007_27x27.png"/>
+    <DOMBitmapItem name="media/008_37x37" href="media/008_37x37.png"/>
+    <DOMBitmapItem name="media/009_37x37" href="media/009_37x37.png"/>
+    <DOMBitmapItem name="media/010_37x37" href="media/010_37x37.png"/>
+    <DOMBitmapItem name="media/011_37x37" href="media/011_37x37.png"/>
+    <DOMBitmapItem name="media/012_37x37" href="media/012_37x37.png"/>
+    <DOMBitmapItem name="media/013_14x16" href="media/013_14x16.png"/>
+    <DOMBitmapItem name="media/014_9x11" href="media/014_9x11.png"/>
+    <DOMBitmapItem name="media/015_14x14" href="media/015_14x14.png"/>
+    <DOMBitmapItem name="media/016_13x14" href="media/016_13x14.png"/>
+    <DOMBitmapItem name="media/017_8x9" href="media/017_8x9.png"/>
+    <DOMBitmapItem name="media/018_13x14" href="media/018_13x14.png"/>
+    <DOMBitmapItem name="media/019_8x9" href="media/019_8x9.png"/>
+    <DOMBitmapItem name="media/020_12x14" href="media/020_12x14.png"/>
+    <DOMBitmapItem name="media/021_7x9" href="media/021_7x9.png"/>
+    <DOMBitmapItem name="media/022_12x14" href="media/022_12x14.png"/>
+    <DOMBitmapItem name="media/023_7x9" href="media/023_7x9.png"/>
+    <DOMBitmapItem name="media/024_11x11" href="media/024_11x11.png"/>
+    <DOMBitmapItem name="media/025_19x27" href="media/025_19x27.png"/>
+    <DOMBitmapItem name="media/026_44x44" href="media/026_44x44.png"/>
+    <DOMBitmapItem name="media/027_26x26" href="media/027_26x26.png"/>
+    <DOMBitmapItem name="media/028_19x27" href="media/028_19x27.png"/>
+  </media>
+  <symbols>
+    <Include href="image/000_11x19.xml"/>
+    <Include href="image/001_16x16.xml"/>
+    <Include href="image/002_19x20.xml"/>
+    <Include href="image/003_16x18.xml"/>
+    <Include href="image/004_17x19.xml"/>
+    <Include href="image/005_17x18.xml"/>
+    <Include href="image/006_17x17.xml"/>
+    <Include href="image/007_27x27.xml"/>
+    <Include href="image/008_37x37.xml"/>
+    <Include href="image/009_37x37.xml"/>
+    <Include href="image/010_37x37.xml"/>
+    <Include href="image/011_37x37.xml"/>
+    <Include href="image/012_37x37.xml"/>
+    <Include href="image/013_14x16.xml"/>
+    <Include href="image/014_9x11.xml"/>
+    <Include href="image/015_14x14.xml"/>
+    <Include href="image/016_13x14.xml"/>
+    <Include href="image/017_8x9.xml"/>
+    <Include href="image/018_13x14.xml"/>
+    <Include href="image/019_8x9.xml"/>
+    <Include href="image/020_12x14.xml"/>
+    <Include href="image/021_7x9.xml"/>
+    <Include href="image/022_12x14.xml"/>
+    <Include href="image/023_7x9.xml"/>
+    <Include href="image/024_11x11.xml"/>
+    <Include href="image/025_19x27.xml"/>
+    <Include href="image/026_44x44.xml"/>
+    <Include href="image/027_26x26.xml"/>
+    <Include href="image/028_19x27.xml"/>
+    <Include href="sprite/EmptyAnchor.xml"/>
+    <Include href="sprite/Symbol2.xml"/>
+    <Include href="sprite/shanke_cn_1_137_92895.xml"/>
+    <Include href="sprite/shanke_cn_1_138_61071.xml"/>
+    <Include href="sprite/shanke_cn_1_66_79960.xml"/>
+    <Include href="sprite/shanke_cn_1_67_9176.xml"/>
+    <Include href="sprite/shanke_cn_1_69_2869.xml"/>
+    <Include href="sprite/shanke_cn_1_72_79761.xml"/>
+    <Include href="sprite/shanke_cn_1_73_41907.xml"/>
+    <Include href="sprite/shanke_cn_1_76_44755.xml"/>
+    <Include href="sprite/shanke_cn_1_77_90269.xml"/>
+    <Include href="sprite/shanke_cn_1_80_35299.xml"/>
+    <Include href="sprite/shanke_cn_1_81_56640.xml"/>
+    <Include href="sprite/shanke_cn_1_84_67527.xml"/>
+    <Include href="sprite/shanke_cn_1_85_94389.xml"/>
+    <Include href="sprite/shanke_cn_1_88_7840.xml"/>
+    <Include href="label/attack02.xml"/>
+    <Include href="label/attack01.xml"/>
+    <Include href="label/p1.xml"/>
+  </symbols>
+  <timelines>
+    <DOMTimeline name="animation">
+      <layers>
+        <DOMLayer name="label">
+          <frames>
+            <DOMFrame index="0" duration="58" name="attack02" labelType="name">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="58" duration="44" name="attack01" labelType="name">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="102" duration="30" name="p1" labelType="name">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="action">
+          <frames>
+            <DOMFrame index="0" duration="57">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="57">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="58" duration="43">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="101">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="102" duration="29">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="131">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="instance">
+          <frames>
+            <DOMFrame index="0" duration="58">
+              <elements>
+                <DOMSymbolInstance libraryItemName="label/attack02" symbolType="graphic" loop="loop"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="44">
+              <elements>
+                <DOMSymbolInstance libraryItemName="label/attack01" symbolType="graphic" loop="loop"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="102" duration="30">
+              <elements>
+                <DOMSymbolInstance libraryItemName="label/p1" symbolType="graphic" loop="loop"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timelines>
+</DOMDocument>
