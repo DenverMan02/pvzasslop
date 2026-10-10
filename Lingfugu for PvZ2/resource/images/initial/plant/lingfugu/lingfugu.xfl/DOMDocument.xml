@@ -282,7 +282,6 @@
     <Include href="label/damage.xml"/>
     <Include href="label/attack.xml"/>
     <Include href="label/plantfood.xml"/>
-    <Include href="label/die.xml"/>
   </symbols>
   <timelines>
     <DOMTimeline name="animation">
@@ -299,9 +298,6 @@
               <elements/>
             </DOMFrame>
             <DOMFrame index="180" duration="120" name="plantfood" labelType="name">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="300" duration="80" name="die" labelType="name">
               <elements/>
             </DOMFrame>
           </frames>
@@ -362,15 +358,6 @@
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="300" duration="79">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="379">
-              <Actionscript>
-                <script><![CDATA[stop();]]></script>
-              </Actionscript>
-              <elements/>
-            </DOMFrame>
           </frames>
         </DOMLayer>
         <DOMLayer name="instance">
@@ -393,11 +380,6 @@
             <DOMFrame index="180" duration="120">
               <elements>
                 <DOMSymbolInstance libraryItemName="label/plantfood" symbolType="graphic" loop="loop"/>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="300" duration="80">
-              <elements>
-                <DOMSymbolInstance libraryItemName="label/die" symbolType="graphic" loop="loop"/>
               </elements>
             </DOMFrame>
           </frames>
