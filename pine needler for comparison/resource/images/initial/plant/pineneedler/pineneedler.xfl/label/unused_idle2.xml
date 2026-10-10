@@ -1,0 +1,2801 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/unused_idle2" symbolType="graphic">
+  <timeline>
+    <DOMTimeline name="unused_idle2">
+      <layers>
+        <DOMLayer name="20">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="0">
+                  <matrix>
+                    <Matrix a="0.362289428710938" b="0.1405029296875" c="-0.1405029296875" d="0.362289428710938" tx="129.15" ty="198.05"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="1">
+                  <matrix>
+                    <Matrix a="0.362274169921875" b="0.140487670898438" c="-0.140487670898438" d="0.362274169921875" tx="129.15" ty="198.1"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="2">
+                  <matrix>
+                    <Matrix a="0.362289428710938" b="0.14044189453125" c="-0.14044189453125" d="0.362289428710938" tx="129.15" ty="198.1"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="3">
+                  <matrix>
+                    <Matrix a="0.362396240234375" b="0.14013671875" c="-0.14013671875" d="0.362396240234375" tx="129.15" ty="198.1"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="4">
+                  <matrix>
+                    <Matrix a="0.362838745117188" b="0.13897705078125" c="-0.13897705078125" d="0.362838745117188" tx="129.2" ty="198.15"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="5">
+                  <matrix>
+                    <Matrix a="0.364028930664062" b="0.135848999023438" c="-0.135848999023438" d="0.364028930664062" tx="129.25" ty="198.3"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="6">
+                  <matrix>
+                    <Matrix a="0.366546630859375" b="0.128860473632812" c="-0.128860473632812" d="0.366546630859375" tx="129.35" ty="198.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="7">
+                  <matrix>
+                    <Matrix a="0.371078491210938" b="0.115203857421875" c="-0.115203857421875" d="0.371078491210938" tx="129.6" ty="199.15"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="8">
+                  <matrix>
+                    <Matrix a="0.377822875976562" b="0.090667724609375" c="-0.090667724609375" d="0.377822875976562" tx="130" ty="200.15"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="9">
+                  <matrix>
+                    <Matrix a="0.3853759765625" b="0.0494842529296875" c="-0.0494842529296875" d="0.3853759765625" tx="130.65" ty="201.8"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="10">
+                  <matrix>
+                    <Matrix a="0.388229370117188" b="-0.015625" c="0.015625" d="0.388229370117188" tx="131.75" ty="204.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="11">
+                  <matrix>
+                    <Matrix a="0.374771118164062" b="-0.10247802734375" c="0.10247802734375" d="0.374771118164062" tx="133.1" ty="207.8"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="12">
+                  <matrix>
+                    <Matrix a="0.35235595703125" b="-0.163711547851562" c="0.163711547851562" d="0.35235595703125" tx="134.2" ty="210.3"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="13">
+                  <matrix>
+                    <Matrix a="0.332687377929688" b="-0.200668334960938" c="0.200668334960938" d="0.332687377929688" tx="134.85" ty="211.95"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="14">
+                  <matrix>
+                    <Matrix a="0.31884765625" b="-0.222015380859375" c="0.222015380859375" d="0.31884765625" tx="135.2" ty="212.95"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="15">
+                  <matrix>
+                    <Matrix a="0.310409545898438" b="-0.233673095703125" c="0.233673095703125" d="0.310409545898438" tx="135.5" ty="213.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="16">
+                  <matrix>
+                    <Matrix a="0.305892944335938" b="-0.239547729492188" c="0.239547729492188" d="0.305892944335938" tx="135.6" ty="213.8"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="17">
+                  <matrix>
+                    <Matrix a="0.303817749023438" b="-0.242172241210938" c="0.242172241210938" d="0.303817749023438" tx="135.65" ty="213.9"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="18">
+                  <matrix>
+                    <Matrix a="0.30303955078125" b="-0.243148803710938" c="0.243148803710938" d="0.30303955078125" tx="135.65" ty="213.95"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="19">
+                  <matrix>
+                    <Matrix a="0.302825927734375" b="-0.243408203125" c="0.243408203125" d="0.302825927734375" tx="135.7" ty="214"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="20">
+                  <matrix>
+                    <Matrix a="0.30279541015625" b="-0.243453979492188" c="0.243453979492188" d="0.30279541015625" tx="135.7" ty="213.95"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="21">
+                  <matrix>
+                    <Matrix a="0.302810668945312" b="-0.243453979492188" c="0.243453979492188" d="0.302810668945312" tx="135.6" ty="213.95"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="27">
+                  <matrix>
+                    <Matrix a="0.302810668945312" b="-0.243453979492188" c="0.243453979492188" d="0.302810668945312" tx="135.6" ty="213.95"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="28">
+                  <matrix>
+                    <Matrix a="0.383956909179688" b="-0.0594482421875" c="0.0594482421875" d="0.383956909179688" tx="132.35" ty="206"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerfrontarm" loop="loop" firstFrame="29">
+                  <matrix>
+                    <Matrix a="0.362289428710938" b="0.1405029296875" c="-0.1405029296875" d="0.362289428710938" tx="129.15" ty="198.05"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="19">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="0">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="190.35" ty="151.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="1">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="190.3" ty="151.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="2">
+                  <matrix>
+                    <Matrix a="0.388580322265625" b="-4.57763671875e-05" c="4.57763671875e-05" d="0.388580322265625" tx="190.35" ty="151.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="3">
+                  <matrix>
+                    <Matrix a="0.388580322265625" b="-0.0004730224609375" c="0.0004730224609375" d="0.388580322265625" tx="190.35" ty="151.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="4">
+                  <matrix>
+                    <Matrix a="0.388580322265625" b="-0.00201416015625" c="0.00201416015625" d="0.388580322265625" tx="190.25" ty="151.8"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="5">
+                  <matrix>
+                    <Matrix a="0.388534545898438" b="-0.0062103271484375" c="0.0062103271484375" d="0.388534545898438" tx="190" ty="151.95"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="6">
+                  <matrix>
+                    <Matrix a="0.388290405273438" b="-0.015472412109375" c="0.015472412109375" d="0.388290405273438" tx="189.55" ty="152.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="7">
+                  <matrix>
+                    <Matrix a="0.387130737304688" b="-0.0334320068359375" c="0.0334320068359375" d="0.387130737304688" tx="188.65" ty="153.1"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="8">
+                  <matrix>
+                    <Matrix a="0.383102416992188" b="-0.064971923828125" c="0.064971923828125" d="0.383102416992188" tx="187.05" ty="154.4"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="9">
+                  <matrix>
+                    <Matrix a="0.370895385742188" b="-0.115859985351562" c="0.115859985351562" d="0.370895385742188" tx="184.35" ty="156.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="10">
+                  <matrix>
+                    <Matrix a="0.338592529296875" b="-0.190643310546875" c="0.190643310546875" d="0.338592529296875" tx="180.2" ty="160"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="11">
+                  <matrix>
+                    <Matrix a="0.271774291992188" b="-0.277694702148438" c="0.277694702148438" d="0.271774291992188" tx="174.6" ty="164.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="12">
+                  <matrix>
+                    <Matrix a="0.207916259765625" b="-0.328262329101562" c="0.328262329101562" d="0.207916259765625" tx="170.45" ty="167.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="13">
+                  <matrix>
+                    <Matrix a="0.16192626953125" b="-0.35321044921875" c="0.35321044921875" d="0.16192626953125" tx="167.8" ty="170.05"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="14">
+                  <matrix>
+                    <Matrix a="0.132492065429688" b="-0.365280151367188" c="0.365280151367188" d="0.132492065429688" tx="166.15" ty="171.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="15">
+                  <matrix>
+                    <Matrix a="0.115447998046875" b="-0.371017456054688" c="0.371017456054688" d="0.115447998046875" tx="165.25" ty="172.1"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="16">
+                  <matrix>
+                    <Matrix a="0.1065673828125" b="-0.3736572265625" c="0.3736572265625" d="0.1065673828125" tx="164.75" ty="172.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="17">
+                  <matrix>
+                    <Matrix a="0.102523803710938" b="-0.374801635742188" c="0.374801635742188" d="0.102523803710938" tx="164.55" ty="172.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="18">
+                  <matrix>
+                    <Matrix a="0.101028442382812" b="-0.375198364257812" c="0.375198364257812" d="0.101028442382812" tx="164.5" ty="172.8"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="19">
+                  <matrix>
+                    <Matrix a="0.100631713867188" b="-0.37530517578125" c="0.375320434570312" d="0.100631713867188" tx="164.45" ty="172.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="20">
+                  <matrix>
+                    <Matrix a="0.100555419921875" b="-0.375320434570312" c="0.375320434570312" d="0.100555419921875" tx="164.45" ty="172.8"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="21">
+                  <matrix>
+                    <Matrix a="0.100570678710938" b="-0.375335693359375" c="0.375335693359375" d="0.100570678710938" tx="164.4" ty="172.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="27">
+                  <matrix>
+                    <Matrix a="0.100570678710938" b="-0.375335693359375" c="0.375335693359375" d="0.100570678710938" tx="164.4" ty="172.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="28">
+                  <matrix>
+                    <Matrix a="0.308273315429688" b="-0.236541748046875" c="0.236541748046875" d="0.308273315429688" tx="177.3" ty="162.3"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderstemmy" loop="loop" firstFrame="29">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="190.35" ty="151.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="18">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="0">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="182.15" ty="203.3"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="1">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="182.1" ty="203.3"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="2">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="182.1" ty="203.3"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="3">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="182.1" ty="203.3"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="4">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="182.15" ty="203.3"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="5">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="182.25" ty="203.2"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="6">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="182.5" ty="203.1"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="7">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="182.95" ty="202.9"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="8">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="183.7" ty="202.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="9">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="185" ty="201.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="10">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="187.05" ty="200.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="11">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="189.75" ty="199.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="12">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="191.8" ty="198.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="13">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="193.1" ty="197.8"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="14">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="193.85" ty="197.4"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="15">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="194.3" ty="197.2"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="16">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="194.55" ty="197.1"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="17">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="194.65" ty="197.05"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="18">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="194.7" ty="197"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="19">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="194.7" ty="197"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="20">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="194.7" ty="197"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="21">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="194.75" ty="197"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="27">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="194.75" ty="197"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="28">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="188.45" ty="200.15"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteyebrown" loop="loop" firstFrame="29">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="182.15" ty="203.3"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="17">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="0">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="180.4" ty="216.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="1">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="180.35" ty="216.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="2">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="180.35" ty="216.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="3">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="180.35" ty="216.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="4">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="180.4" ty="216.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="5">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="180.55" ty="216.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="6">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="180.85" ty="216.4"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="7">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="181.45" ty="216.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="8">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="182.45" ty="216.2"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="9">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="184.15" ty="216.05"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="10">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="186.8" ty="215.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="11">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="190.4" ty="215.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="12">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="193.05" ty="215.05"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="13">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="194.75" ty="214.9"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="14">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="195.75" ty="214.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="15">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="196.35" ty="214.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="16">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="196.65" ty="214.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="17">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="196.8" ty="214.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="18">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="196.85" ty="214.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="19">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="196.85" ty="214.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="20">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="196.85" ty="214.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="21">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="196.9" ty="214.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="27">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="196.9" ty="214.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="28">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="188.6" ty="215.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerboca" loop="loop" firstFrame="29">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="180.4" ty="216.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="16">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="0">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="193.25" ty="214.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="1">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="193.25" ty="214.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="2">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="193.25" ty="214.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="3">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="193.25" ty="214.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="4">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="193.3" ty="214.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="5">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="193.45" ty="214.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="6">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="193.7" ty="214.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="7">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="194.25" ty="214.55"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="8">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="195.25" ty="214.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="9">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="196.8" ty="214.2"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="10">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="199.3" ty="213.9"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="11">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="202.65" ty="213.4"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="12">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="205.15" ty="213.1"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="13">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="206.7" ty="212.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="14">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="207.7" ty="212.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="15">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="208.25" ty="212.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="16">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="208.5" ty="212.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="17">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="208.65" ty="212.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="18">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="208.7" ty="212.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="19">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="208.7" ty="212.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="20">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="208.7" ty="212.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="21">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="208.7" ty="212.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="27">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="208.7" ty="212.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="28">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="201" ty="213.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="29">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="193.25" ty="214.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="15">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="0">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="179.8" ty="210.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="1">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="179.75" ty="210.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="2">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="179.75" ty="210.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="3">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="179.75" ty="210.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="4">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="179.8" ty="210.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="5">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="179.9" ty="210.4"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="6">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="180.15" ty="210.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="7">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="180.65" ty="210.2"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="8">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="181.5" ty="209.95"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="9">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="182.85" ty="209.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="10">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="185" ty="208.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="11">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="187.95" ty="208"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="12">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="190.1" ty="207.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="13">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="191.45" ty="206.9"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="14">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="192.3" ty="206.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="15">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="192.8" ty="206.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="16">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="193.05" ty="206.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="17">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="193.15" ty="206.4"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="18">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="193.2" ty="206.4"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="19">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="193.2" ty="206.4"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="20">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="193.2" ty="206.4"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="21">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="193.25" ty="206.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="27">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="193.25" ty="206.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="28">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="186.55" ty="208.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneelderrighteye" loop="loop" firstFrame="29">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="179.8" ty="210.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="14">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="0">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="201.85" ty="200.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="1">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="201.8" ty="200.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="2">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="201.8" ty="200.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="3">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="201.8" ty="200.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="4">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="201.85" ty="200.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="5">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="201.95" ty="200.8"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="6">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="202.15" ty="200.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="7">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="202.55" ty="200.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="8">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="203.25" ty="200.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="9">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="204.45" ty="200.25"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="10">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="206.25" ty="199.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="11">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="208.7" ty="199.25"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="12">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="210.5" ty="198.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="13">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="211.7" ty="198.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="14">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="212.4" ty="198.4"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="15">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="212.8" ty="198.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="16">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="213" ty="198.3"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="17">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="213.1" ty="198.25"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="18">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="213.15" ty="198.25"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="19">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="213.15" ty="198.25"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="20">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="213.15" ty="198.25"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="21">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="213.2" ty="198.25"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="27">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="213.2" ty="198.25"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="28">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="207.5" ty="199.55"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteyebrow" loop="loop" firstFrame="29">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="201.85" ty="200.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="13">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="0">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="208.65" ty="213.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="1">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="208.6" ty="213.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="2">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="208.6" ty="213.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="3">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="208.6" ty="213.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="4">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="208.65" ty="213.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="5">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="208.75" ty="213.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="6">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="209" ty="213.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="7">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="209.4" ty="213.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="8">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="210.2" ty="213.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="9">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="211.5" ty="213.4"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="10">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="213.5" ty="213.25"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="11">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="216.2" ty="213"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="12">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="218.2" ty="212.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="13">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="219.5" ty="212.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="14">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="220.3" ty="212.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="15">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="220.7" ty="212.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="16">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="220.95" ty="212.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="17">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="221.05" ty="212.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="18">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="221.1" ty="212.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="19">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="221.1" ty="212.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="20">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="221.1" ty="212.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="21">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="221.15" ty="212.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="27">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="221.15" ty="212.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="28">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="214.9" ty="213.1"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerpupil" loop="loop" firstFrame="29">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="208.65" ty="213.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="12">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="0">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="204.3" ty="205.25"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="1">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="204.25" ty="205.2"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="2">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="204.25" ty="205.2"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="3">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="204.25" ty="205.2"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="4">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="204.3" ty="205.2"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="5">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="204.4" ty="205.2"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="6">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="204.6" ty="205.2"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="7">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="205" ty="205.2"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="8">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="205.7" ty="205.25"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="9">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="206.85" ty="205.25"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="10">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="208.65" ty="205.3"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="11">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="211.1" ty="205.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="12">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="212.9" ty="205.4"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="13">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="214.05" ty="205.4"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="14">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="214.75" ty="205.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="15">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="215.15" ty="205.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="16">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="215.35" ty="205.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="17">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="215.45" ty="205.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="18">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="215.5" ty="205.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="19">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="215.5" ty="205.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="20">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="215.5" ty="205.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="21">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="215.55" ty="205.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="27">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="215.55" ty="205.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="28">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="209.9" ty="205.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerlefteye" loop="loop" firstFrame="29">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="204.3" ty="205.25"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="10">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="69">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="123.95" ty="213.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="70">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="123.95" ty="213.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="71">
+                  <matrix>
+                    <Matrix a="0.388580322265625" b="-0.0001068115234375" c="0.0001068115234375" d="0.388580322265625" tx="124" ty="213.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="72">
+                  <matrix>
+                    <Matrix a="0.388580322265625" b="-0.000946044921875" c="0.000946044921875" d="0.388580322265625" tx="124.05" ty="213.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="73">
+                  <matrix>
+                    <Matrix a="0.388580322265625" b="-0.0040435791015625" c="0.0040435791015625" d="0.388580322265625" tx="124.15" ty="213.8"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="74">
+                  <matrix>
+                    <Matrix a="0.388397216796875" b="-0.0124359130859375" c="0.0124359130859375" d="0.388397216796875" tx="124.45" ty="213.95"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="75">
+                  <matrix>
+                    <Matrix a="0.387344360351562" b="-0.0309295654296875" c="0.0309295654296875" d="0.387344360351562" tx="125.15" ty="214.3"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="76">
+                  <matrix>
+                    <Matrix a="0.3828125" b="-0.0666351318359375" c="0.0666351318359375" d="0.3828125" tx="126.5" ty="215.15"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="77">
+                  <matrix>
+                    <Matrix a="0.366836547851562" b="-0.128128051757812" c="0.128128051757812" d="0.366836547851562" tx="128.9" ty="216.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="78">
+                  <matrix>
+                    <Matrix a="0.319473266601562" b="-0.22119140625" c="0.22119140625" d="0.319473266601562" tx="132.85" ty="218.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="79">
+                  <matrix>
+                    <Matrix a="0.201507568359375" b="-0.332244873046875" c="0.332244873046875" d="0.201507568359375" tx="139" ty="222.25"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="80">
+                  <matrix>
+                    <Matrix a="-0.0083465576171875" b="-0.388473510742188" c="0.388473510742188" d="-0.0083465576171875" tx="147.25" ty="226.95"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="81">
+                  <matrix>
+                    <Matrix a="-0.166046142578125" b="-0.351303100585938" c="0.351303100585938" d="-0.166046142578125" tx="153.35" ty="230.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="82">
+                  <matrix>
+                    <Matrix a="-0.253585815429688" b="-0.294403076171875" c="0.294403076171875" d="-0.253585815429688" tx="157.3" ty="232.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="83">
+                  <matrix>
+                    <Matrix a="-0.298187255859375" b="-0.249130249023438" c="0.249130249023438" d="-0.298187255859375" tx="159.7" ty="234.1"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="84">
+                  <matrix>
+                    <Matrix a="-0.3199462890625" b="-0.220474243164062" c="0.220474243164062" d="-0.3199462890625" tx="161.05" ty="234.9"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="85">
+                  <matrix>
+                    <Matrix a="-0.330093383789062" b="-0.204971313476562" c="0.204971313476562" d="-0.330093383789062" tx="161.75" ty="235.3"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="86">
+                  <matrix>
+                    <Matrix a="-0.334442138671875" b="-0.197799682617188" c="0.197799682617188" d="-0.334442138671875" tx="162.05" ty="235.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="87">
+                  <matrix>
+                    <Matrix a="-0.336013793945312" b="-0.19512939453125" c="0.19512939453125" d="-0.336013793945312" tx="162.15" ty="235.55"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="88">
+                  <matrix>
+                    <Matrix a="-0.33642578125" b="-0.19439697265625" c="0.19439697265625" d="-0.33642578125" tx="162.15" ty="235.55"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="89">
+                  <matrix>
+                    <Matrix a="-0.336502075195312" b="-0.194290161132812" c="0.194305419921875" d="-0.336502075195312" tx="162.1" ty="235.55"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="90">
+                  <matrix>
+                    <Matrix a="-0.336517333984375" b="-0.194290161132812" c="0.194305419921875" d="-0.336517333984375" tx="162.15" ty="235.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="96">
+                  <matrix>
+                    <Matrix a="-0.336517333984375" b="-0.194290161132812" c="0.194305419921875" d="-0.336517333984375" tx="162.15" ty="235.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="97">
+                  <matrix>
+                    <Matrix a="0.100570678710938" b="-0.375335693359375" c="0.375335693359375" d="0.100570678710938" tx="143" ty="224.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedler4arm" loop="loop" firstFrame="98">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="123.95" ty="213.65"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="1">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="76">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="77">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="78">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="79">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="80">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="81">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="82">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="83">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="84">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="85">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="86">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="87">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="88">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="89">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="90">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="91">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="92">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="93">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="94">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="95">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="96">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="97">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="103">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="104">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbody" loop="loop" firstFrame="105">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="147.1" ty="164.75"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="0">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="153">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="206.3" ty="195.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="154">
+                  <matrix>
+                    <Matrix a="0.388580322265625" d="0.388580322265625" tx="206.25" ty="195.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="155">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388580322265625" tx="206.3" ty="195.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="156">
+                  <matrix>
+                    <Matrix a="0.388717651367188" d="0.388580322265625" tx="206.3" ty="195.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="157">
+                  <matrix>
+                    <Matrix a="0.389144897460938" d="0.388580322265625" tx="206.3" ty="195.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="158">
+                  <matrix>
+                    <Matrix a="0.390304565429688" d="0.388580322265625" tx="206.4" ty="195.4"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="159">
+                  <matrix>
+                    <Matrix a="0.392868041992188" d="0.388580322265625" tx="206.5" ty="195.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="160">
+                  <matrix>
+                    <Matrix a="0.397842407226562" d="0.388580322265625" tx="206.75" ty="195.7"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="161">
+                  <matrix>
+                    <Matrix a="0.406631469726562" d="0.388580322265625" tx="207.2" ty="196"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="162">
+                  <matrix>
+                    <Matrix a="0.421096801757812" d="0.388580322265625" tx="207.9" ty="196.55"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="163">
+                  <matrix>
+                    <Matrix a="0.44366455078125" d="0.388580322265625" tx="209" ty="197.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="164">
+                  <matrix>
+                    <Matrix a="0.474090576171875" d="0.388580322265625" tx="210.5" ty="198.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="165">
+                  <matrix>
+                    <Matrix a="0.49664306640625" d="0.388580322265625" tx="211.65" ty="199.3"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="166">
+                  <matrix>
+                    <Matrix a="0.511123657226562" d="0.388580322265625" tx="212.35" ty="199.85"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="167">
+                  <matrix>
+                    <Matrix a="0.519912719726562" d="0.388580322265625" tx="212.8" ty="200.15"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="168">
+                  <matrix>
+                    <Matrix a="0.524887084960938" d="0.388580322265625" tx="213.05" ty="200.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="169">
+                  <matrix>
+                    <Matrix a="0.527450561523438" d="0.388580322265625" tx="213.15" ty="200.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="170">
+                  <matrix>
+                    <Matrix a="0.528610229492188" d="0.388580322265625" tx="213.2" ty="200.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="171">
+                  <matrix>
+                    <Matrix a="0.529037475585938" d="0.388580322265625" tx="213.25" ty="200.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="172">
+                  <matrix>
+                    <Matrix a="0.529159545898438" d="0.388580322265625" tx="213.25" ty="200.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="173">
+                  <matrix>
+                    <Matrix a="0.5291748046875" d="0.388580322265625" tx="213.25" ty="200.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="174">
+                  <matrix>
+                    <Matrix a="0.5291748046875" d="0.388595581054688" tx="213.2" ty="200.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="175">
+                  <matrix>
+                    <Matrix a="0.525390625" b="-0.0630340576171875" c="0.046295166015625" d="0.38580322265625" tx="213.3" ty="200.6"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="176">
+                  <matrix>
+                    <Matrix a="0.514144897460938" b="-0.125228881835938" c="0.0919647216796875" d="0.377548217773438" tx="213.2" ty="200.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="177">
+                  <matrix>
+                    <Matrix a="0.527496337890625" b="0.041900634765625" c="-0.03076171875" d="0.387359619140625" tx="213.3" ty="200.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="178">
+                  <matrix>
+                    <Matrix a="0.487899780273438" b="0.204849243164062" c="-0.150421142578125" d="0.3582763671875" tx="213.25" ty="200.45"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="179">
+                  <matrix>
+                    <Matrix a="0.51873779296875" b="0.104507446289062" c="-0.07672119140625" d="0.38092041015625" tx="213.2" ty="200.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="180">
+                  <matrix>
+                    <Matrix a="0.5291748046875" d="0.388595581054688" tx="213.2" ty="200.5"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="181">
+                  <matrix>
+                    <Matrix a="0.458877563476562" d="0.388580322265625" tx="209.75" ty="197.95"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29">
+              <elements>
+                <DOMSymbolInstance libraryItemName="sprite/pineneedlerbackarm" loop="loop" firstFrame="182">
+                  <matrix>
+                    <Matrix a="0.388595581054688" d="0.388595581054688" tx="206.3" ty="195.35"/>
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
